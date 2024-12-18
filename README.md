@@ -65,7 +65,9 @@ SkillVertex, Bangalore, India
 ## Certifications
 
 - **Basic Python Certification** (HackerRank)
+- **Python for Data Science** (Infosys)
 - **Machine Learning Foundation Certification** (Infosys)
 - **Data Processing and Visualization Certification** (Accenture)
 - **Machine Learning Internship Certification** (SkillVertex)
+- **Google Cloud Digital Leader Certificatoin** (Google)
 
