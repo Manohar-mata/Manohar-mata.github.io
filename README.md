@@ -1,73 +1,54 @@
-# MATA MANOHAR
+MATA MANOHAR  
++1 (314) 379-1032 | St Louis, Missouri, USA  
+matamanohar612@gmail.com | LinkedIn: linkedin.com/in/mata-manohar | GitHub: github.com/Manohar-mata  
 
-📞 **Phone**: (314) 861-8026  
-📍 **Address**: 319 Greenwich Lane, 63108, St Louis, Missouri, USA  
-✉️ **Email**: [matamanohar612@gmail.com](mailto:matamanohar612@gmail.com)  
-🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mata-manohar-b7161b242)
+PROFESSIONAL SUMMARY  
+Detail-oriented and driven Master’s student in Applied Analytics with a strong foundation in data analysis and machine learning. Experienced in developing and implementing algorithms through internships, honing skills in programming, system design, and optimization. Proficient in Python and C++, with expertise in frameworks like TensorFlow and Scikit-learn. Adept at collaborating in cross-functional teams and delivering high-quality results in fast-paced environments. Seeking challenging opportunities to leverage technical expertise and drive data-driven innovation in technology and software development.
 
-## Objective
+TECHNICAL SKILLS  
+- **Programming Languages:** C/C++, Python, MySQL, MongoDB  
+- **Machine Learning Frameworks:** TensorFlow, Scikit-learn, Keras, Matplotlib, Seaborn  
+- **Data Processing & Visualization Tools:** Pandas, NumPy, PowerBI, Tableau, Excel, DAX  
+- **Development Tools:** Jupyter Notebook, Visual Studio Code, Google Colab, Dagshub  
+- **MLOps Tools:** MLflow, Docker, Git  
+- **Deployment Tools:** Streamlit, Gradio, Flask, AWS, Azure, GitHub  
+- **Operating Systems:** Windows (XP–11), Linux  
 
-To obtain an entry-level position in a reputable organization where I can utilize my technical skills, theoretical knowledge, and passion for learning to contribute to the company’s growth. I am a diligent and dedicated individual, eager to apply my education and gain practical experience in a professional setting. I am seeking an opportunity to work with a diverse team, where I can enhance my skills, develop a strong foundation, and grow as a professional.
+PROFESSIONAL EXPERIENCE  
+**Machine Learning Engineer Intern**  
+SkillVertex, Bangalore, India | May 2022 – July 2022  
+- Developed and optimized machine learning models, achieving high accuracy and efficiency.  
+- Improved model performance with advanced data preprocessing and feature engineering techniques.  
+- Integrated ML solutions into scalable AI-driven products, contributing to cross-functional projects.  
+- Utilized Python and TensorFlow for data analysis, creating actionable insights and impactful visualizations.  
+- Delivered measurable results, including a 15% improvement in model prediction accuracy.
 
-## Education
+PROJECTS  
+**End-to-End Blood Donation Prediction Model with MLOps Integration**  
+- Built ETL pipelines to extract, transform, and load data from the UCI ML Repository into MongoDB collections.  
+- Designed and implemented an MLOps pipeline including data ingestion, validation, transformation, and model evaluation.  
+- Achieved 80% accuracy with Logistic Regression identified through TPOT AutoML.  
+- Managed experiment tracking and hyperparameter tuning using MLflow via Dagshub.  
+- Deployed the model using Docker images on AWS EC2 with CI/CD pipelines enabled via GitHub Actions.  
 
-**Master’s of Science in Analytics (Expected May 2026)**  
-Saint Louis University
+**Kidney Stone Detection and Prediction Using Machine Learning and CNN**  
+- Developed a predictive model for kidney stone detection using MRI images, achieving 94% accuracy with CNN.  
+- Employed Random Forest Classifier for feature engineering, achieving 80% accuracy.  
+- Implemented image segmentation using OpenCV to identify stone regions in MRI scans.  
+- Deployed the model as a Streamlit application for user-friendly visualization and prediction.  
+- Demonstrated proficiency in TensorFlow, image processing, and cloud-based deployment tools.
 
-**Bachelors in Computer Science Engineering (2020-2024)**  
-Dhanekula Institute of Engineering and Technology, Vijayawada  
-CGPA: 7.63
+CERTIFICATIONS  
+- Basic Python Certification (HackerRank)  
+- Machine Learning Foundation Certification (Infosys)  
+- Data Processing and Visualization Certification (Accenture)  
+- Machine Learning Internship Certification (SkillVertex)  
+- Mathematics for Data Science (Udemy)  
+- Google Cloud Digital Leader (Google)  
 
-**Intermediate (2018-2020)**  
-Sri Chaitanya Junior College, Vuyyuru  
-CGPA: 9.76
+EDUCATION  
+**Master’s of Science in Analytics**  
+Saint Louis University | Expected May 2026 | Current GPA: 4.0  
 
-**10th Grade (2017-2018)**  
-Narayana High School, Vuyyuru  
-GPA: 10.0
-
-## Experience
-
-**Machine Learning Engineer Intern (May 2022 - July 2022)**  
-SkillVertex, Bangalore, India  
-- Developed and optimized ML models for high accuracy and efficiency using techniques such as data preprocessing and feature engineering.
-- Worked on real-world projects where ML solutions were applied within scalable, AI-driven products in cross-functional teams.
-- Used Python and TensorFlow to conduct data analysis and visualizations to deliver insights through reports and dashboards.
-
-## Projects
-
-### Life Expectancy Prediction
-- Developed and evaluated OLS and Logit regression models to predict life expectancy and categorize it as 'high' or 'low'.
-- Utilized Python libraries (pandas, scikit-learn, statsmodels) within a Google Colab environment.
-- Performed EDA, including normality tests and visualizations, to understand data characteristics and feature relationships.
-- Evaluated models using metrics like RMSE, R-squared, accuracy, ROC-AUC, and confusion matrices.
-- Generated a comprehensive report detailing methodology, findings, insights, limitations, and future work.
-
-### Skin-Segmentation
-- Developed a skin detection application using OpenCV in Python.
-- Implemented image processing techniques like color space conversion, histogram analysis, and thresholding based on YCrCb space for skin pixel segmentation.
-- Customized algorithms to achieve efficient and precise segmentation. *(Try it here)*
-
-### Final Year Project: Chronic Kidney Stone Detection
-- Focused on detecting kidney stones using MRI scans.
-- Developed a machine learning model to assist in the early detection of kidney stones using image analysis.
-- Employed Random Forest and Convolutional Neural Network (CNN) approaches to classify kidney stone images with an accuracy of 80% (Random Forest) and 96% (CNN).
-- Preprocessed images using techniques like resizing and grayscale conversion.
-- Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
-- Demonstrated proficiency in machine learning algorithms, image processing techniques, and model evaluation.
-
-## Skills
-
-**Technical Skills**: Python, C++, MySQL, Data Preprocessing, Data Visualization  
-**Tools & Libraries**: Pandas, Scikit-learn, TensorFlow, OpenCV, Statsmodels  
-**Skills**: Basic Data Structures, Machine Learning, Exploratory Data Analysis (EDA)
-
-## Certifications
-
-- **Basic Python Certification** (HackerRank)
-- **Python for Data Science** (Infosys)
-- **Machine Learning Foundation Certification** (Infosys)
-- **Data Processing and Visualization Certification** (Accenture)
-- **Machine Learning Internship Certification** (SkillVertex)
-- **Google Cloud Digital Leader Certificatoin** (Google)
-
+**Bachelor’s in Computer Science Engineering**  
+Dhanekula Institute of Engineering and Technology, Vijayawada | 2020–2024 | CGPA: 7.63  
